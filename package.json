@@ -1,7 +1,7 @@
 {
-    "name": "phaser3-typescript-project-template",
+    "name": "phaser3-simon-memory",
     "version": "1.0.2",
-    "description": "A Phaser 3 Project Template using Rollup and TypeScript",
+    "description": "A Phaser 3 Simon Memory game",
     "main": "src/game.ts",
     "scripts": {
         "dev": "rollup --config rollup.config.dev.js",
@@ -10,14 +10,12 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/photonstorm/phaser3-typescript-project-template.git"
+        "url": "git+https://github.com/matlintz/phaser-3-simon.git"
     },
-    "author": "Richard Davey <rich@photonstorm.com> (http://www.photonstorm.com)",
+    "author": "Matt Lintz <rich@photonstorm.com> (http://www.photonstorm.com)",
     "license": "MIT",
-    "bugs": {
-        "url": "https://github.com/photonstorm/phaser3-typescript-project-template/issues"
-    },
-    "homepage": "https://github.com/photonstorm/phaser3-typescript-project-template#readme",
+    
+    "homepage": "https://mobsor.com",
     "dependencies": {},
     "devDependencies": {
         "@rollup/plugin-replace": "^2.3.0",
